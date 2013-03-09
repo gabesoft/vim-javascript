@@ -1,4 +1,4 @@
 vim-javascript
 ==============
 
-javascript vim settings
+Vim bundle for JavaScript
